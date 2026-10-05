@@ -16,12 +16,12 @@ public:
 
             q.push_back(i);
 
-            if(q.front() < i - k + 1)//if window is out of bound
+            if(q.front() < i - k + 1)
             {
                 q.pop_front();
             }
 
-            if(i >= k - 1)//to check if the window size is okay
+            if(i >= k - 1)
             {
                 ans.push_back(nums[q.front()]);
             }
