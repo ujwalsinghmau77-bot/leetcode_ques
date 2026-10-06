@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0008-string-to-integer-atoi) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
