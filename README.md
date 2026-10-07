@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
+| [2057-smallest-index-with-equal-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2057-smallest-index-with-equal-value) |
 ## Queue
 |  |
 | ------- |
