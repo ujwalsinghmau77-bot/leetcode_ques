@@ -40,4 +40,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
