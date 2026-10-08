@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
