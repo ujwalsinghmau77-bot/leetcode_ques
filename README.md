@@ -69,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
