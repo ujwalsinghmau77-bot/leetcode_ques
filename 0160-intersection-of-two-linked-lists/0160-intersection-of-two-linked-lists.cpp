@@ -40,7 +40,7 @@ public:
             curr1=curr1->next ;
             curr2=curr2->next ;
         }
-        return curr1  ;
+        return curr2 ;
         
     }
 };
