@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
