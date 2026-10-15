@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0100-same-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
