@@ -1,31 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        queue<pair<TreeNode*, long long>> que;
-        que.push({root,0});
-        long long maxi=1;
-
-        while(!que.empty()){
-            int n=que.size();
-            long long lm=-1;
-            long long rm=-1;
+        typedef unsigned long long ll;
+        queue<pair<TreeNode*,ll>>q;
+        q.push({root,0});
+        ll maxwidth=0;
+        while(!q.empty()){
+            ll L =q.front().second;
+            ll R=q.back().second;
+            maxwidth=max(maxwidth,R-L+1);
+            int n =q.size();
             while(n--){
-                TreeNode* node=que.front().first;
-                int p=que.front().second; que.pop();
-                
-                if(lm==-1){
-                    lm=p;
-                    rm=p;
+                TreeNode*temp=q.front().first;
+                ll p = q.front().second;
+                q.pop();
+                if(temp->left){
+                    q.push({temp->left,2*p+1});
                 }
-                else {rm=p;}
-
-                if(node->left) que.push({node->left,2LL*p+1});
-                if(node->right) que.push({node->right,2LL*p+2});
-
+                if(temp->right){
+                    q.push({temp->right,2*p+2});
+                }
             }
-            maxi=max(maxi,rm-lm+1);
-        }
+            
 
-        return maxi;
+        }
+        return maxwidth;
+        
     }
 };
