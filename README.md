@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [2057-smallest-index-with-equal-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2057-smallest-index-with-equal-value) |
 ## Queue
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
