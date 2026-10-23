@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [2057-smallest-index-with-equal-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2057-smallest-index-with-equal-value) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
