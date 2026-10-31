@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
