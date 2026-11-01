@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0872-leaf-similar-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0872-leaf-similar-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0872-leaf-similar-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bracket Sequences
 |  |
@@ -264,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
