@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0112-path-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0112-path-sum) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0700-search-in-a-binary-search-tree) |
