@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
