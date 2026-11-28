@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1046-last-stone-weight) |
 | [2057-smallest-index-with-equal-value](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2057-smallest-index-with-equal-value) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
