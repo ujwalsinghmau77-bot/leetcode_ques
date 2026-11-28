@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1046-last-stone-weight) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0148-sort-list) |
+| [0506-relative-ranks](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/0506-relative-ranks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalsinghmau77-bot/leetcode_ques/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
